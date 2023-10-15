@@ -1,3 +1,4 @@
+import Footer from "./Footer";
 import Navbar from "./Navbar";
 import {useRouter} from "next/router";
 
@@ -9,6 +10,7 @@ export default function Layout({ children, ...props }) {
             <div className="mx-auto w-full 2xl:w-[1500px]">
                 {children}
             </div>
+            {/* <Footer/> */}
         </div>
     )
 }
