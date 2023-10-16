@@ -33,7 +33,7 @@ export default function JobList({type,listName,hasRefreshButton}) {
                     <h2 className='font-semibold text-lg'>
                         Fullstack Java Developer required, long-term possibilty
                     </h2>
-                    <span className='text-xs'>Rp. 100.000/hour - Posted 1 minutes ago</span>
+                    <span className='text-xs'>$20/hour - Posted 1 minutes ago</span>
                     <p className='text-sm text-gray-500 truncate'>
                         Hello, I need a Full-stack Java developer.
 
@@ -61,7 +61,7 @@ export default function JobList({type,listName,hasRefreshButton}) {
                     <h2 className='font-semibold text-lg'>
                         Looking for female freelancer to discuss a virtual boxing match 
                     </h2>
-                    <span className='text-xs'>Rp. 100.000/hour - Posted 1 minutes ago</span>
+                    <span className='text-xs'>$20/hour - Posted 1 minutes ago</span>
                     <p className='text-sm text-gray-500 truncate'>
                     I'm looking for multiple female freelancers interested in discussing a virtual boxing match over messages throughout the course of a week. Specifically your opinions  in regards to boxing gloves you'd use, boxing equipment if we were in a boxing match together. As well as discuss various boxing related scenarios. You really don't have to be a pro at boxing or boxing terminology either. I'm thinking this could be something ongoing depending on the outcome.
 
@@ -82,7 +82,7 @@ export default function JobList({type,listName,hasRefreshButton}) {
                     <h2 className='font-semibold text-lg'>
                         Fullstack Java Developer required, long-term possibilty
                     </h2>
-                    <span className='text-xs'>Rp. 100.000/hour - Posted 1 minutes ago</span>
+                    <span className='text-xs'>$20/hour - Posted 1 minutes ago</span>
                     <p className='text-sm text-gray-500 truncate'>
                         Hello, I need a Full-stack Java developer.
 
@@ -110,7 +110,7 @@ export default function JobList({type,listName,hasRefreshButton}) {
                     <h2 className='font-semibold text-lg'>
                         Looking for female freelancer to discuss a virtual boxing match 
                     </h2>
-                    <span className='text-xs'>Rp. 100.000/hour - Posted 1 minutes ago</span>
+                    <span className='text-xs'>$20/hour - Posted 1 minutes ago</span>
                     <p className='text-sm text-gray-500 truncate'>
                     I'm looking for multiple female freelancers interested in discussing a virtual boxing match over messages throughout the course of a week. Specifically your opinions  in regards to boxing gloves you'd use, boxing equipment if we were in a boxing match together. As well as discuss various boxing related scenarios. You really don't have to be a pro at boxing or boxing terminology either. I'm thinking this could be something ongoing depending on the outcome.
 
@@ -131,7 +131,7 @@ export default function JobList({type,listName,hasRefreshButton}) {
                     <h2 className='font-semibold text-lg'>
                         Fullstack Java Developer required, long-term possibilty
                     </h2>
-                    <span className='text-xs'>Rp. 100.000/hour - Posted 1 minutes ago</span>
+                    <span className='text-xs'>$20/hour - Posted 1 minutes ago</span>
                     <p className='text-sm text-gray-500 truncate'>
                         Hello, I need a Full-stack Java developer.
 
@@ -159,7 +159,7 @@ export default function JobList({type,listName,hasRefreshButton}) {
                     <h2 className='font-semibold text-lg'>
                         Looking for female freelancer to discuss a virtual boxing match 
                     </h2>
-                    <span className='text-xs'>Rp. 100.000/hour - Posted 1 minutes ago</span>
+                    <span className='text-xs'>$20/hour - Posted 1 minutes ago</span>
                     <p className='text-sm text-gray-500 truncate'>
                     I'm looking for multiple female freelancers interested in discussing a virtual boxing match over messages throughout the course of a week. Specifically your opinions  in regards to boxing gloves you'd use, boxing equipment if we were in a boxing match together. As well as discuss various boxing related scenarios. You really don't have to be a pro at boxing or boxing terminology either. I'm thinking this could be something ongoing depending on the outcome.
 

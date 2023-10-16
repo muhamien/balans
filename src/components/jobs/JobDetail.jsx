@@ -20,7 +20,7 @@ export default function JobDetail() {
                         </h2>
                         <button className='px-4 py-2 bg-[#73B729] text-white rounded-full'>Apply Job</button>
                     </div>
-                    <span className='text-xs'>Rp. 100.000/hour - Posted 1 minutes ago</span>
+                    <span className='text-xs'>$20/hour - Posted 1 minutes ago</span>
                     <div className='text-sm text-gray-500 my-4'>
                         <div>
                             I'm looking for multiple female freelancers interested in discussing a virtual boxing match over messages throughout the course of a week. Specifically your opinions&nbsp;&nbsp;in regards to boxing gloves you'd use, boxing equipment if we were in a boxing match together. As well as discuss various boxing related scenarios. You really don't have to be a pro at boxing or boxing terminology either. I'm thinking this could be something ongoing depending on the outcome. <br/>

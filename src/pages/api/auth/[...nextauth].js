@@ -23,7 +23,7 @@ export const authOptions = {
             // if (url.startsWith("/")) return `${baseUrl}${url}`
             // else if (new URL(url).origin === baseUrl) return url
             // return baseUrl
-            return '/jobs'
+            return '/onboarding'
         },
         async jwt({ token, user, account, profile, isNewUser }) {
             if (user) {
